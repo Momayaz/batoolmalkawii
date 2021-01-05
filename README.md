@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there ✨ 
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=batoolmalkawii&show_icons=true&theme=gruvbox">
+<img src="https://github-readme-stats.vercel.app/api?username=batoolmalkawii&show_icons=true&theme=monokai">
 </p>
 
 <p align="center">
@@ -21,17 +21,11 @@
 </p>
 
 
-<!--
-**batoolmalkawii/batoolmalkawii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Intensive Bootcamp.
+- 🌱 I’m currently learning Python Django.
+- 👯 I’m looking to collaborate on Full-Stack Apps.
+- 🤔 I’m looking for help with Career Oppurtunities in Jordan.
+- 💬 Ask me about Data Structures and Algorithms
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/batoolmalkawii)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
