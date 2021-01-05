@@ -22,10 +22,10 @@
 
 
 
-- 🔭 I’m currently working on Intensive Bootcamp.
+- 🔭 I’m currently working on intensive SE bootcamp.
 - 🌱 I’m currently learning Python Django.
-- 👯 I’m looking to collaborate on Full-Stack Apps.
-- 🤔 I’m looking for help with Career Oppurtunities in Jordan.
-- 💬 Ask me about Data Structures and Algorithms.
+- 👯 I’m looking to collaborate on full-stack apps.
+- 🤔 I’m looking for help with career oppurtunities in Jordan.
+- 💬 Ask me about data structures and algorithms.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/batoolmalkawii)
 
