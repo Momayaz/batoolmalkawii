@@ -26,6 +26,6 @@
 - 🌱 I’m currently learning Python Django.
 - 👯 I’m looking to collaborate on Full-Stack Apps.
 - 🤔 I’m looking for help with Career Oppurtunities in Jordan.
-- 💬 Ask me about Data Structures and Algorithms
+- 💬 Ask me about Data Structures and Algorithms.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/batoolmalkawii)
 
